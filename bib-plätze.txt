@@ -1,0 +1,13 @@
+JSON
+document.querySelector("a[href='?mod=200&reservationtimeslot_id=7']")
+document.querySelector("a[href='?mod=200&reservationtimeslot_id=8']")
+
+X-Path
+                                                                 bib              time
+/html[1]/body[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/table[1]/tbody[1]/tr[6]/td[3]/a[1]
+
+west:
+/html[1]/body[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/table[2]/tbody[1]/tr[9999]/td[3]/a[1]
+/html[1]/body[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/table[2]/tbody[1]/tr[9999]/td[3]/a[1]
+
+/html[1]/body[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/table[3]/tbody[1]/tr[6]/td[3]/a[1]
